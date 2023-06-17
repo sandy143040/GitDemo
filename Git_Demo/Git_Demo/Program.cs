@@ -12,6 +12,7 @@ namespace Git_Demo
         {
             GitDemoClass gitDemoClass = new GitDemoClass();
             gitDemoClass.Demo();
+            gitDemoClass.DemoUC2();
             Console.ReadLine();
         }
     }
